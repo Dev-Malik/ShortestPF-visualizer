@@ -1,6 +1,6 @@
 # PATHFINDER-VISUALIZER
 It is a Web Application, built on the concepts of Artificial Intelligence, which finds the Shortest Path between 2 Points.<br>
-To run the application,
+To run the application, use the link https://swerag.github.io/ShortestPF-and-visualizer/
 <br><br>
 There is One Starting Point and Two Destination Points.
 <br>
@@ -25,4 +25,4 @@ It also provieds an option for BiDirectional Search for some algorithms. In this
 The Path Length and the Time Taken is shown at the end of execution of algorithm, along with the animations and Shortest Path. 
 <br>
 <br>
-User can always refer to the Instructions provided! :)
+User can always refer to the Instructions provided.
